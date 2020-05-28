@@ -1,0 +1,8 @@
+oauth2:
+  gitee:
+    client:
+      clientId: 0e2cae5e8c1498c4276b113355c815b265428e68a189bd75025e1bd7e9e4bbc1
+      clientSecret: a375bffedce8119c9ebba0a7896ed070e6406355f1c143f8a045c58cafc4b9ee
+      userAuthorizationUri: "https://gitee.com/oauth/authorize"
+      accessTokenUri: "https://gitee.com/oauth/token"
+    userInfoUri: "https://gitee.com/api/v5/user"
